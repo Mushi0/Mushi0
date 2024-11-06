@@ -19,9 +19,15 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushi0&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=2" width="50%" /> </br>
 </div>
 
-
+<!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+
+<!-- Tech Stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,cpp,matlab,r,julia,html,raspberrypi"/> </br>
+</div>
