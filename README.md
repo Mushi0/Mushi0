@@ -16,19 +16,22 @@ Here are some ideas to get you started:
 <!-- Stats -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" />
-    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" width="35%" />
-  </picture>
-   </br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mushi0&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5&order=2" />
-    <img alt="github-streak-stats" src="[github-snake.svg](https://github-readme-streak-stats.herokuapp.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5&order=2)" width="50%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="35%" />
   </picture>
 </div>
 
-<!-- snake -->
+<!-- Streak Stats -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
+    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
+  </picture>
+</div>
+
+<!-- Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />
