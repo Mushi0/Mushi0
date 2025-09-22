@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!-- Streak Stats -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
-    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=Mushi0&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=aura&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=catppuccin_latte&hide_border=true" />
+    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=catppuccin_latte&hide_border=true" width="50%" />
   </picture>
 </div>
 
