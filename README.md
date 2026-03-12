@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Stats -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
     <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="35%" />
   </picture>
-</div>
+</div> -->
 
 <!-- Streak Stats -->
 <div align="center">
